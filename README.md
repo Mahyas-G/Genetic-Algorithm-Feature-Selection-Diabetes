@@ -1,2 +1,1 @@
-# Genetic-Algorithm-Feature-Selection-Diabetes
-FCIPROJ2
+![result.png](result.png)
