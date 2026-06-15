@@ -1,1 +1,2 @@
-![result.png](result.png)
+![](ga_convergence.png)
+![](ga_results.png)
